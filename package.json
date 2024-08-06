@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node server/index.js"
+    "start": "node server/index.js",
+     "build": "cd iq-pos-vue3;npm install;npm run build;"
   },
   "dependencies": {
     "body-parser": "^1.14.2",
