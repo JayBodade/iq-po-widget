@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node server/index.js",
-     "build": "cd iq_pos_vue3\nnpm install\nnpm run build"
+     "build": "cd iq_pos_vue3\ncd iq_pos_vue\nnpm install\nnpm run build"
   },
   "dependencies": {
     "body-parser": "^1.14.2",
