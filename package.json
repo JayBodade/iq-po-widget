@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node server/index.js",
-     "build": "cd iq-pos-vue3;npm install;npm run build;"
+     "build": "vue-in-zet-crm\nnpm install\nnpm run build"
   },
   "dependencies": {
     "body-parser": "^1.14.2",
